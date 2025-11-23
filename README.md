@@ -2,10 +2,12 @@
 <!-- slug: penilaian -->
 <!-- title: Aplikasi Penilaian Sekolah -->
 <!-- description: Desktop-based school grading application to help schools manage student grades efficiently -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-penilaian -->
+<!-- image: https://github.com/user-attachments/assets/fdd33d8c-413a-42c8-a8c1-9fd4d5954960 -->
 <!-- tags: c#, .net, mysql, desktop-app, school-management -->
 
 # School Grading Application (Aplikasi Penilaian Sekolah)
+
+<img width="1536" height="1024" alt="penilaian" src="https://github.com/user-attachments/assets/fdd33d8c-413a-42c8-a8c1-9fd4d5954960" />
 
 A desktop-based school grading and assessment management application built with C# .NET and MySQL, designed to help schools efficiently manage and process student grades.
 
